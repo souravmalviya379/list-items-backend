@@ -1,0 +1,1 @@
+export const STATIC_IMAGE_PATH='/public/images'
